@@ -1,1 +1,11 @@
 /* Add CSS Styling */
+div p{
+/* yellow background, red text, a font size of 20px, and center aligned */
+
+    background-color: yellow;
+    color: red;
+    font: 20px;
+    text-align: center;
+}
+
+/* or else can make use of class name */
