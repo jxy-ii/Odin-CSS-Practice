@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+
+button{
+    font-family: Helvetica, "calibri", san-serif;
+    font-size: large;
+}
+.cc{
+    background-color: black;
+    color: white;
+    font-weight: 600;
+}
+
+.nc{
+    background-color: yellow;
+    color: black;
+    font-weight: 400;
+}
