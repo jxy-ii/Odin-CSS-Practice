@@ -1,1 +1,26 @@
 /* Add CSS Styling */
+.no1, .no3, .no5 {
+    background-color: pink;
+    font-family: Arial, sans-serif;
+}
+
+.no1, .no5{
+    color: black;
+    font-size: medium;
+}
+
+#no2{
+    font-size: x-large;
+    color: blue;
+    font-weight: bold;
+}
+
+.no3{
+    font-size: large;
+}
+
+#no4{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: medium;
+}
